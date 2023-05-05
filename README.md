@@ -6,3 +6,4 @@ Bootstrap is a set of files and configurations used to create the initial infras
 2. [Securing the Root User Management Account](docs/02_mfa.md)
 3. [Set Alternate Contacts](docs/03_alternate_contacts.md)
 4. [Creating an IAM User for Administrative Bootstrap](docs/04_administrative_account.md)
+5. [Landing Zone Using AWS Control Tower](docs/05_landing_zone.md)

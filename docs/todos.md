@@ -1,6 +1,7 @@
 # Best practices
 1. Never use personal account
 2. Activate billing access for IAM users
+3. Setting up a password policy
 
 https://passwordless.id/usage/openid
 

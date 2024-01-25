@@ -21,3 +21,20 @@ https://controltower.aws-management.tools/
 https://getstarted.awsworkshop.io/00-intro/02-intended-audience.html
 
 https://catalog.workshops.aws/cfn101/en-US/introduction
+
+
+https://www.image-processing.serverlessworkshops.io/
+
+https://v1.cicd.serverlessworkshops.io/
+
+https://application-catalog.serverlessworkshops.io/040_pipeline/
+
+https://chalice-workshop.readthedocs.io/en/latest/
+
+https://github.com/aws-samples/aws-modern-application-workshop/tree/python-cdk
+
+https://webapp.serverlessworkshops.io/
+
+https://github.com/aws-samples/aws-serverless-workshops
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/fc36cb5a-de1b-403f-84dd-cc824390c548/en-US

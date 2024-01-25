@@ -19,6 +19,16 @@ aws cloudformation deploy --no-fail-on-empty-changeset \
 2. Enabling Console access for the created users
 3. Logging to the AWS console
 
+
+
+CONTINUAR AQUI
+https://workshop-aws-account-setup.fstehle.com/master-account/aws-organization/
+
+
+
+
+
+
 https://passwordless.id/usage/openid
 
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html
@@ -64,4 +74,14 @@ https://wellarchitectedlabs.com/
 
 https://github.com/aws-samples/arc325-multiple-accounts-workshop
 
-https://github.com/aws-samples/arc325-multiple-accounts-workshop
+https://awsworkshop.io/categories/organizations/
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/d3f60827-89f2-46a8-9be7-6e7185bd7665/en-US
+
+https://mng.workshop.aws/
+
+https://github.com/hamidnazari/workshop-aws-org-scp
+
+https://awssecworkshops.com/
+
+https://getstarted.awsworkshop.io/

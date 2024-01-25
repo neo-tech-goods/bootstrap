@@ -35,6 +35,7 @@ https://github.com/aws-samples/aws-modern-application-workshop/tree/python-cdk
 
 https://webapp.serverlessworkshops.io/
 
+https://github.com/aws-samples/arc325-multiple-accounts-workshop/blob/master/docs/create-orgs.md
 https://github.com/aws-samples/aws-serverless-workshops
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/fc36cb5a-de1b-403f-84dd-cc824390c548/en-US

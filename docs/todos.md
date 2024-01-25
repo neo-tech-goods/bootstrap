@@ -2,6 +2,7 @@
 1. Never use personal account
 2. Activate billing access for IAM users
 3. Setting up a password policy
+4. Endpoints
 
 https://passwordless.id/usage/openid
 

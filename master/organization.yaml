@@ -1,0 +1,9 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Neotech Goods Organization
+
+Resources:
+  NeotechGoodsOrganization:
+    DeletionPolicy: Retain
+    Type: AWS::Organizations::Organization
+    Properties:
+      FeatureSet: ALL

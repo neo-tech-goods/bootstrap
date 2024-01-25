@@ -6,3 +6,7 @@ https://passwordless.id/usage/openid
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html
 
 Use a group email address for root accounts
+
+# Recomended OUs
+https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/recommended-ous-and-accounts.html
+

@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: IAM users and groups in master AWS account
+
+Resources:
+  AdministratorsGroup:
+    Type: AWS::IAM::Group
+    Properties:
+      GroupName: Administrators
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/AdministratorAccess
+  TarcisioUser:
+    Type: AWS::IAM::User
+    Properties:
+      Groups:
+        - !Ref AdministratorsGroup
+      UserName: <user@example.com>

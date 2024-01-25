@@ -23,6 +23,11 @@ Criar organização
 1. criar arquivo organization.yaml
 2. usar cloud shell para aplicar
 
+```
+aws cloudformation deploy --no-fail-on-empty-changeset \
+--template-file organization.yaml --stack-name organization \
+--capabilities CAPABILITY_NAMED_IAM --region sa-east-1
+```
 
 CONTINUAR AQUI
 https://workshop-aws-account-setup.fstehle.com/master-account/aws-organization/

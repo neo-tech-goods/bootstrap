@@ -4,9 +4,16 @@
 3. Setting up a password policy
 4. Endpoints
 
+
 1. Use cloudshell
 2. Setting up IAM users and groups
 3. https://workshop-aws-account-setup.fstehle.com/master-account/iam-users/
+
+```
+aws cloudformation deploy --no-fail-on-empty-changeset \
+--template-file iam-users.yml --stack-name iam-users \
+--capabilities CAPABILITY_NAMED_IAM --region sa-east-1
+```
 
 https://passwordless.id/usage/openid
 

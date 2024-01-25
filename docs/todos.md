@@ -40,3 +40,5 @@ https://github.com/aws-samples/aws-serverless-workshops
 https://catalog.us-east-1.prod.workshops.aws/workshops/fc36cb5a-de1b-403f-84dd-cc824390c548/en-US
 
 https://github.com/aws-samples/aws-security-odyssey/tree/master
+
+https://wellarchitectedlabs.com/

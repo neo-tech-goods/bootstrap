@@ -43,3 +43,5 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/fc36cb5a-de1b-403f-84dd-c
 https://github.com/aws-samples/aws-security-odyssey/tree/master
 
 https://wellarchitectedlabs.com/
+
+https://github.com/aws-samples/arc325-multiple-accounts-workshop

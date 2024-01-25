@@ -45,3 +45,5 @@ https://github.com/aws-samples/aws-security-odyssey/tree/master
 https://wellarchitectedlabs.com/
 
 https://github.com/aws-samples/arc325-multiple-accounts-workshop
+
+https://github.com/aws-samples/arc325-multiple-accounts-workshop

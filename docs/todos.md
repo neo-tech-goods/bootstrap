@@ -4,6 +4,10 @@
 3. Setting up a password policy
 4. Endpoints
 
+1. Create a temporary access keys for the root account under
+2. Setting up IAM users and groups
+3. https://workshop-aws-account-setup.fstehle.com/master-account/iam-users/
+
 https://passwordless.id/usage/openid
 
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html

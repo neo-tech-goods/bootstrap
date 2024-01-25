@@ -19,6 +19,9 @@ aws cloudformation deploy --no-fail-on-empty-changeset \
 2. Enabling Console access for the created users
 3. Logging to the AWS console
 
+Criar organização
+1. criar arquivo organization.yaml
+2. usar cloud shell para aplicar
 
 
 CONTINUAR AQUI

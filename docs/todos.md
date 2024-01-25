@@ -15,6 +15,10 @@ aws cloudformation deploy --no-fail-on-empty-changeset \
 --capabilities CAPABILITY_NAMED_IAM --region sa-east-1
 ```
 
+1. Assigning an MFA device for the created users
+2. Enabling Console access for the created users
+3. Logging to the AWS console
+
 https://passwordless.id/usage/openid
 
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html

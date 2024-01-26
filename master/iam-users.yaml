@@ -1,5 +1,10 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: IAM users and groups in master AWS account
+Description: IAM group and users in the master AWS account
+
+Parameters:
+  UserNameParameter:
+    Type: String
+    Description: The username of the administrator
 
 Resources:
   AdministratorsGroup:
@@ -8,9 +13,10 @@ Resources:
       GroupName: Administrators
       ManagedPolicyArns:
         - arn:aws:iam::aws:policy/AdministratorAccess
-  TarcisioUser:
+  AdministratorUser:
     Type: AWS::IAM::User
     Properties:
       Groups:
         - !Ref AdministratorsGroup
-      UserName: <user@example.com>
+      UserName: !Ref UserNameParameter
+

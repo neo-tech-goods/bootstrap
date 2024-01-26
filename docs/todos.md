@@ -26,7 +26,8 @@ Após criar na mão
 1. Customize AWS access portal URL
 2. Prevent creation of new account instances of IAM Identity Center
 3. Enable Multi-factor authentication
-4. 
+4. reduce Session time settings
+
 Criar organização
 1. criar arquivo organization.yaml
 2. usar cloud shell para aplicar

@@ -35,6 +35,9 @@ Criar organização
 
 Criar grupos e usuarios do Identity center
 
+Em Multi-account permissions
+1. Permission sets
+2. Billing
 
 ```
 aws cloudformation deploy --no-fail-on-empty-changeset \

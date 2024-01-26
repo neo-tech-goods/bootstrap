@@ -27,6 +27,7 @@ Após criar na mão
 2. Prevent creation of new account instances of IAM Identity Center
 3. Enable Multi-factor authentication
 4. reduce Session time settings
+5. Delegated administrator Identity center
 
 Criar organização
 1. criar arquivo organization.yaml

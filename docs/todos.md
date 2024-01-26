@@ -12,7 +12,8 @@
 ```
 aws cloudformation deploy --no-fail-on-empty-changeset \
 --template-file iam-users.yml --stack-name iam-users \
---capabilities CAPABILITY_NAMED_IAM --region sa-east-1
+--capabilities CAPABILITY_NAMED_IAM --region sa-east-1 \
+--parameter-overrides UserNameParameter=<user@example.com>
 ```
 
 1. Assigning an MFA device for the created users

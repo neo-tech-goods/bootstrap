@@ -20,6 +20,13 @@ aws cloudformation deploy --no-fail-on-empty-changeset \
 2. Enabling Console access for the created users
 3. Logging to the AWS console
 
+**Nao é possível criar ident center via cloudformation**
+**Usar então a criação de usuário admin e organizações e contas usando cloudformation para documentar os passos**
+Após criar na mão
+1. Customize AWS access portal URL
+2. Prevent creation of new account instances of IAM Identity Center
+3. Enable Multi-factor authentication
+4. 
 Criar organização
 1. criar arquivo organization.yaml
 2. usar cloud shell para aplicar

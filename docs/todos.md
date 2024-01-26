@@ -32,6 +32,9 @@ Criar organização
 1. criar arquivo organization.yaml
 2. usar cloud shell para aplicar
 
+Criar grupos e usuarios do Identity center
+
+
 ```
 aws cloudformation deploy --no-fail-on-empty-changeset \
 --template-file organization.yaml --stack-name organization \

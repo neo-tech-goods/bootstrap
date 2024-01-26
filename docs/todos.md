@@ -39,6 +39,8 @@ Em Multi-account permissions
 1. Permission sets
 2. Billing
 
+Configurar trusted advisor
+
 ```
 aws cloudformation deploy --no-fail-on-empty-changeset \
 --template-file organization.yaml --stack-name organization \
